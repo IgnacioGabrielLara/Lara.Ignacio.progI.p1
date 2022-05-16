@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652741395 source:c:\users\usuario\desktop\utn nacho\codeblocks\funcionesparial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parcial.h"
+
+1652741396 c:\users\usuario\desktop\utn nacho\codeblocks\funcionesparial\parcial.h
+
